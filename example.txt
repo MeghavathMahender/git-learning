@@ -1,0 +1,11 @@
+how to use git and github
+1) git is version control system and github is one example of a  of remote repository hosting service
+
+
+IN git there are four types of stages they are:
+1) remote repository 
+2) Local repository
+3) Staging Area 
+4) Working directory 
+
+
